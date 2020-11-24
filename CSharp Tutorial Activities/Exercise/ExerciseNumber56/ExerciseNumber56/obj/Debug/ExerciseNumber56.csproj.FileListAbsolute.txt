@@ -1,0 +1,7 @@
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\bin\Debug\ExerciseNumber56.exe.config
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\bin\Debug\ExerciseNumber56.exe
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\bin\Debug\ExerciseNumber56.pdb
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\obj\Debug\ExerciseNumber56.csprojAssemblyReference.cache
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\obj\Debug\ExerciseNumber56.csproj.CoreCompileInputs.cache
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\obj\Debug\ExerciseNumber56.exe
+C:\Users\pseuser\source\repos\ExerciseNumber56\ExerciseNumber56\obj\Debug\ExerciseNumber56.pdb

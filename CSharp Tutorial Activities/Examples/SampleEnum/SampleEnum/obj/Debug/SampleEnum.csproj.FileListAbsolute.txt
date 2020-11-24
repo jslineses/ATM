@@ -1,0 +1,7 @@
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\obj\Debug\SampleEnum.csprojAssemblyReference.cache
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\obj\Debug\SampleEnum.csproj.CoreCompileInputs.cache
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\bin\Debug\SampleEnum.exe.config
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\bin\Debug\SampleEnum.exe
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\bin\Debug\SampleEnum.pdb
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\obj\Debug\SampleEnum.exe
+C:\Users\pseuser\source\repos\SampleEnum\SampleEnum\obj\Debug\SampleEnum.pdb

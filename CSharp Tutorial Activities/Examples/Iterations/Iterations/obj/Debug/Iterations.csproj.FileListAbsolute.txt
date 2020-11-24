@@ -1,0 +1,6 @@
+C:\Users\pseuser\source\repos\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\pseuser\source\repos\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\pseuser\source\repos\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\pseuser\source\repos\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\pseuser\source\repos\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\pseuser\source\repos\Iterations\Iterations\obj\Debug\Iterations.pdb

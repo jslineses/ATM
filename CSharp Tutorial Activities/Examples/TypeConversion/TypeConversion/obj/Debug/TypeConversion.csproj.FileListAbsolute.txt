@@ -1,0 +1,7 @@
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

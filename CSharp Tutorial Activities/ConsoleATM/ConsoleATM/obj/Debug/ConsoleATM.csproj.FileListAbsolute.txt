@@ -1,0 +1,7 @@
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\bin\Debug\ConsoleATM.exe.config
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\bin\Debug\ConsoleATM.exe
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\bin\Debug\ConsoleATM.pdb
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\obj\Debug\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\obj\Debug\ConsoleATM.exe
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\obj\Debug\ConsoleATM.pdb
+C:\Users\pseuser\Documents\Tutorial Back End\CSharp Tutorial Activities\ConsoleATM\ConsoleATM\obj\Debug\ConsoleATM.csprojAssemblyReference.cache
